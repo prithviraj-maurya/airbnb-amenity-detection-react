@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/airbnb-amenity-detection-react/static/css/main.eaf2ba52.chunk.css",
+    "main.js": "/airbnb-amenity-detection-react/static/js/main.7fd2fc41.chunk.js",
+    "main.js.map": "/airbnb-amenity-detection-react/static/js/main.7fd2fc41.chunk.js.map",
+    "runtime-main.js": "/airbnb-amenity-detection-react/static/js/runtime-main.2c733bbb.js",
+    "runtime-main.js.map": "/airbnb-amenity-detection-react/static/js/runtime-main.2c733bbb.js.map",
+    "static/css/2.11829350.chunk.css": "/airbnb-amenity-detection-react/static/css/2.11829350.chunk.css",
+    "static/js/2.f52955d4.chunk.js": "/airbnb-amenity-detection-react/static/js/2.f52955d4.chunk.js",
+    "static/js/2.f52955d4.chunk.js.map": "/airbnb-amenity-detection-react/static/js/2.f52955d4.chunk.js.map",
+    "index.html": "/airbnb-amenity-detection-react/index.html",
+    "precache-manifest.9c8b360a5637fe1f44d26ccdbeba0f86.js": "/airbnb-amenity-detection-react/precache-manifest.9c8b360a5637fe1f44d26ccdbeba0f86.js",
+    "service-worker.js": "/airbnb-amenity-detection-react/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/airbnb-amenity-detection-react/static/css/2.11829350.chunk.css.map",
+    "static/css/main.eaf2ba52.chunk.css.map": "/airbnb-amenity-detection-react/static/css/main.eaf2ba52.chunk.css.map",
+    "static/js/2.f52955d4.chunk.js.LICENSE.txt": "/airbnb-amenity-detection-react/static/js/2.f52955d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c733bbb.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.f52955d4.chunk.js",
+    "static/css/main.eaf2ba52.chunk.css",
+    "static/js/main.7fd2fc41.chunk.js"
+  ]
+}
