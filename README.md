@@ -1,3 +1,15 @@
+# Airbnb-Amenities-Detection-2020 
+
+![image](https://user-images.githubusercontent.com/26644174/121780568-93dea980-cbbe-11eb-80d6-595e307984c4.png)
+
+
+This repository contains the code for the Front-end side of the complete pipeline. App features the user to upload an Image of any house/apartment etc. and hit inference to get all the amenities inside. Process for inference is as follows - the image is first converted into an 2D array and passed into an Onxx model which gives the bounding boxes of all the objects in the Image, using the coordinates bounding boxes are drawn on the image and shown on the screen.
+---
+* Came across a youtube [video](https://www.youtube.com/watch?v=C_lIenSJb3c&list=PL6vjgQ2-qJFeMrZ0sBjmnUBZNX9xaqKuM) where [Daniel](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/playlists) replicated the [airbnb amenity detection](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e) task from scratch with data gathering to preprocessing to training an existing model to deploying and creating an App for inference.
+* Just the first few minutes and I knew I had to try this out. It covers everything one needs to learn about how Deep Learning works and applying it to solve a real-world problem.
+* To explain the task is detecting Amenities from a photo uploaded of a room, [Airbnb](https://www.airbnb.co.in/) is a platform where you can rent a house or apartment. So what is the business use case here, historically a user uploads photos of the property and adds some details as well as the amenities that come with it, Amenity is something like luxury or that can be used, like a couch or cabinet, etc. So instead of the user adding the amenities why not detect them ourselves from the images. That's where DeepL comes in in form of Object Detection. So let's give it a try Shal we !!
+* Link to my [notion article](https://www.notion.so/Airbnb-Amenities-Detection-2020-5079c38d2d2b4ffc94d617272914cc01)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
